@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=pshrote-afk&color=blue)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshrote-afk&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshrote-afk)
