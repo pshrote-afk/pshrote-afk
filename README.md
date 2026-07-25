@@ -37,6 +37,10 @@ To include C# from private repos:
 markdown
 ![Top Langs](https://your-deployment.vercel.app/api/top-langs/?username=pshrote-afk&count_private=true&langs_count=10)
 
+Sample: <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pshrote-afk&hide=html,css&count_private=true&layout=compact" />
+</p>
+
 This is the only way count_private actually works reliably — public instances (including the "sigma-five" one) don't have your token, so they can never see your private repos regardless of the flag. -->
 
 
@@ -55,9 +59,6 @@ This is the only way count_private actually works reliably — public instances 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshrote-afk&theme=radical" alt="GitHub Streak"/>
 </p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pshrote-afk&hide=html,css&count_private=true&layout=compact" />
-</p>
+
 
 ---
