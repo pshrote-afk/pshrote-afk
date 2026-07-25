@@ -39,6 +39,19 @@ markdown
 
 This is the only way count_private actually works reliably — public instances (including the "sigma-five" one) don't have your token, so they can never see your private repos regardless of the flag. -->
 
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,js,kotlin,androidstudio" /> 
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,mysql,docker" /> 
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
+
+---
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshrote-afk&theme=radical" alt="GitHub Streak"/>
 </p>
