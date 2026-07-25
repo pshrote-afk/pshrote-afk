@@ -17,5 +17,19 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pshrote-afk&color=blue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pshrote-afk&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshrote-afk)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pshrote-afk&show_icons=true&include_all_commits=true)
+<br><br>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pshrote-afk&hide=html,css&count_private=true&layout=compact) 
+<!-- 
+To include C# from private repos:
+
+1. Fork github-readme-stats on GitHub
+2. Create a GitHub Personal Access Token (classic) with repo scope (needed to read private repo data)
+3. Deploy your fork to Vercel (free):
+4. Import the forked repo into Vercel
+5. Add environment variable PAT_1 = your token
+6. Use your own Vercel URL instead of the public one:
+markdown
+![Top Langs](https://your-deployment.vercel.app/api/top-langs/?username=pshrote-afk&count_private=true&langs_count=10)
+
+This is the only way count_private actually works reliably — public instances (including the "sigma-five" one) don't have your token, so they can never see your private repos regardless of the flag. -->
