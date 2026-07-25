@@ -1,4 +1,12 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Paras Shrote</h1>
+<h3 align="center">🚀 Java, C# | Backend Developer | India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pshrote-afk&label=Profile%20Views&color=0e75b6&style=flat" alt="pshrote-afk" />
+</p>
+
+---
 
 <!--
 **pshrote-afk/pshrote-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=pshrote-afk&color=blue)
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pshrote-afk&show_icons=true&include_all_commits=true)
-<br><br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pshrote-afk&hide=html,css&count_private=true&layout=compact) 
-<!-- 
+
+  <!-- 
 To include C# from private repos:
 
 1. Fork github-readme-stats on GitHub
@@ -33,3 +38,13 @@ markdown
 ![Top Langs](https://your-deployment.vercel.app/api/top-langs/?username=pshrote-afk&count_private=true&langs_count=10)
 
 This is the only way count_private actually works reliably — public instances (including the "sigma-five" one) don't have your token, so they can never see your private repos regardless of the flag. -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshrote-afk&theme=radical" alt="GitHub Streak"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pshrote-afk&hide=html,css&count_private=true&layout=compact" />
+</p>
+
+---
