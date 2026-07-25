@@ -12,7 +12,8 @@
 **pshrote-afk/pshrote-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hands on AWS services (EC2, Elastic Beanstalk)
+Hands on Azure services (AzureApp, Managed Identities, Azure Log Analytics)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
